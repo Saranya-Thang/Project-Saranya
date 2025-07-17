@@ -19,6 +19,7 @@ The Academic management system aims to have Student information, Course informat
    ![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/2.Courses_info_records.png)
    ![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/2.Student_info_records.png)
    ![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/2.Enrollment_info_records.png)
+   
 3.Retrive Student Information
 
 a. Query to retrieve student details
