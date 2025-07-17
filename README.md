@@ -21,17 +21,11 @@ The Academic management system aims to have Student information, Course informat
    ![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/2.Enrollment_info_records.png)
    
 3.Retrive Student Information
+a. Query to retrieve student details![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Student_info_3a.png)
 
-a. Query to retrieve student details
-![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Student_info_3a.png)
+b. Query to retrieve a list of courses by "enrolled" filter![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Course_list_3b.png)
 
-
-b. Query to retrieve a list of courses by "enrolled" filter
-![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Course_list_3b.png)
-
-
-c. Query to retrieve course details
-![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Course_Info_3c.png)
+c. Query to retrieve course details![Alt Text](https://github.com/Saranya-Thang/Project-Saranya/blob/main/Task1_Academic_Management_System/Course_Info_3c.png)
 
 
 d. Query to retrieve course details for a specific course
